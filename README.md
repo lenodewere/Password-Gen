@@ -110,7 +110,7 @@ This will compile the SCSS into a regular styles.css file, which can then be lin
 
 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [APACHE 2.0](http://www.apache.org/licenses/).
 
 ---
 
