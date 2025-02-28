@@ -95,12 +95,12 @@ How to Compile SCSS
 
 If you modify the SCSS file (`styles.scss`), you need to compile it into CSS. Here's how you can do it:
 
-1. *Install Sass* (if you don't have it installed):
+1. Install Sass (if you don't have it installed):
    bash
    npm install -g sass
    
 
-2. *Compile the SCSS file*:
+2. Compile the SCSS file:
    bash
    sass styles.scss styles.css
    ```
@@ -130,7 +130,10 @@ Contact
 
 For any questions or feedback, please feel free to reach out.
 
-- Author: Your Name
-- Email: your.email@example.com
-- Website: [yourwebsite.com](https://www.yourwebsite.com)
+- Author: Were Lenox
+- Email: lenoxochieng903@gmail.com
+- Website: (https://lenodewere.github.io/lenox/)
+- WhatsApp: +256 726 183520
+- Twitter: https://x.com/i_am_lennie_
+- LinkedIn: https://www.linkedin.com/in/lenox-were
 ```
